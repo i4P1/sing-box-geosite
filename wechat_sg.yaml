@@ -1,9 +1,9 @@
 ## https://paste.ubuntu.com/p/KYnTf7qmgm/
 # WeChat 新加坡(ip位于新加坡）
-DOMAIN-SUFFIX,support.wechat.com,Proxy
-DOMAIN-SUFFIX,sgshort.wechat.com,Proxy
-DOMAIN-SUFFIX,sgshort.pay.wechat.com,Proxy
-DOMAIN-SUFFIX,sglong.wechat.com,Proxy
-DOMAIN-SUFFIX,sgminorshort.wechat.com,Proxy
-DOMAIN-SUFFIX,sgaxshort.wechat.com,Proxy
-DOMAIN-SUFFIX,sgfindershort.wechat.com,Proxy
+DOMAIN-SUFFIX,support.wechat.com
+DOMAIN-SUFFIX,sgshort.wechat.com
+DOMAIN-SUFFIX,sgshort.pay.wechat.com
+DOMAIN-SUFFIX,sglong.wechat.com
+DOMAIN-SUFFIX,sgminorshort.wechat.com
+DOMAIN-SUFFIX,sgaxshort.wechat.com
+DOMAIN-SUFFIX,sgfindershort.wechat.com
