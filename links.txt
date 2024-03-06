@@ -1,1 +1,2 @@
-https://github.com/i4P1/sing-box-geosite/raw/main/wechat.yaml
+https://github.com/i4P1/sing-box-geosite/raw/main/wechat_cn.yaml
+https://github.com/i4P1/sing-box-geosite/raw/main/wechat_sg.yaml
