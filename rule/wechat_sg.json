@@ -2,24 +2,24 @@
   "rules": [
     {
       "domain": [
-        "sgaxshort.wechat.com,Proxy",
-        "sgfindershort.wechat.com,Proxy",
-        "sglong.wechat.com,Proxy",
-        "sgminorshort.wechat.com,Proxy",
-        "sgshort.pay.wechat.com,Proxy",
-        "sgshort.wechat.com,Proxy",
-        "support.wechat.com,Proxy"
+        "sgaxshort.wechat.com",
+        "sgfindershort.wechat.com",
+        "sglong.wechat.com",
+        "sgminorshort.wechat.com",
+        "sgshort.pay.wechat.com",
+        "sgshort.wechat.com",
+        "support.wechat.com"
       ]
     },
     {
       "domain_suffix": [
-        ".sgaxshort.wechat.com,Proxy",
-        ".sgfindershort.wechat.com,Proxy",
-        ".sglong.wechat.com,Proxy",
-        ".sgminorshort.wechat.com,Proxy",
-        ".sgshort.pay.wechat.com,Proxy",
-        ".sgshort.wechat.com,Proxy",
-        ".support.wechat.com,Proxy"
+        ".sgaxshort.wechat.com",
+        ".sgfindershort.wechat.com",
+        ".sglong.wechat.com",
+        ".sgminorshort.wechat.com",
+        ".sgshort.pay.wechat.com",
+        ".sgshort.wechat.com",
+        ".support.wechat.com"
       ]
     }
   ],
